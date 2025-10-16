@@ -19,8 +19,6 @@ Check out the following video link for a detailed walkthrough of the project str
 [https://notebooklm.google.com/notebook/b8d4a22b-ce59-4d3b-8c4a-3605f07922d6?artifactId=766017c6-0b13-4b1b-9dff-2ead43f7dadf](https://notebooklm.google.com/notebook/b8d4a22b-ce59-4d3b-8c4a-3605f07922d6?artifactId=766017c6-0b13-4b1b-9dff-2ead43f7dadf)
 
 ---
-![Smart Home Preview](smarthome_ui.png)
----
 ## ✨ Features and Capabilities
 
 This **Kotlin Library Management System** implements a wide range of functionalities, driven by clear separation of concerns across its architectural layers:
@@ -48,7 +46,7 @@ This **Kotlin Library Management System** implements a wide range of functionali
 
 The project is strictly divided into five layers, ensuring modularity and maintainability.
 
-![Architecture Diagram Placeholder](https://via.placeholder.com/800x400?text=Layered+Architecture+Diagram)
+![Smart Home Preview,Architecture Diagram Placeholder](smarthome_ui.png)
 
 | Layer | Responsibility | Example Components | Source Support |
 | :--- | :--- | :--- | :--- |
