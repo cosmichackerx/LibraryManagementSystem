@@ -14,7 +14,8 @@ Check out the following video link for a detailed walkthrough of the project str
 [https://notebooklm.google.com/notebook/b8d4a22b-ce59-4d3b-8c4a-3605f07922d6?artifactId=ed69bb09-919b-41ec-a2ca-029596d79477](https://notebooklm.google.com/notebook/b8d4a22b-ce59-4d3b-8c4a-3605f07922d6?artifactId=ed69bb09-919b-41ec-a2ca-029596d79477)
 
 ---
-
+![Smart Home Preview](assets/smarthome_ui.png)
+---
 ## ✨ Features and Capabilities
 
 This **Kotlin Library Management System** implements a wide range of functionalities, driven by clear separation of concerns across its architectural layers:
