@@ -106,6 +106,6 @@ Current Date: YYYY-MM-DD
 Choose option: 
 ```
 
-![Console Menu Screenshot Placeholder](MainMenu.png)
+![Console Menu Screenshot Placeholder](MainMenu.PNG)
 
 Choosing option `5` gracefully exits the main program loop.
