@@ -12,7 +12,7 @@ Check out the following video link for a detailed walkthrough of the project str
 
 **[Project Demo & Explanation]**
 [https://notebooklm.google.com/notebook/b8d4a22b-ce59-4d3b-8c4a-3605f07922d6?artifactId=ed69bb09-919b-41ec-a2ca-029596d79477](https://notebooklm.google.com/notebook/b8d4a22b-ce59-4d3b-8c4a-3605f07922d6?artifactId=ed69bb09-919b-41ec-a2ca-029596d79477)
-
+[https://notebooklm.google.com/notebook/b8d4a22b-ce59-4d3b-8c4a-3605f07922d6?artifactId=ab47a723-67f8-4d05-a3cb-efab5335a0ea](https://notebooklm.google.com/notebook/b8d4a22b-ce59-4d3b-8c4a-3605f07922d6?artifactId=ab47a723-67f8-4d05-a3cb-efab5335a0ea)
 ---
 ![Smart Home Preview](smarthome_ui.png)
 ---
