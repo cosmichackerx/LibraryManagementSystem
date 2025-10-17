@@ -46,7 +46,8 @@ This **Kotlin Library Management System** implements a wide range of functionali
 
 The project is strictly divided into five layers, ensuring modularity and maintainability.
 
-![Smart Home Preview,Architecture Diagram Placeholder](smarthome_ui.png)
+![Smart Home Preview](smarthome_ui.png)
+![Architecture Diagram Placeholder](LMS.png)
 
 | Layer | Responsibility | Example Components | Source Support |
 | :--- | :--- | :--- | :--- |
